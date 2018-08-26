@@ -9,9 +9,9 @@
 
 ![Main](https://github.com/Divy1211/Enc/blob/master/images/Main.PNG)
 
-1. Input an initial state into the top text field. The initial states consist of 3 numbers each being from 0 to 25 sperated by spaces for eg. 0 5 25 is a valid initial state while -1 5 26 is not depending on the initial state, the output may change so to correctly decrypt a message, inital state should be right.
+1. Input an initial state into the top text field. The initial states consist of 3 numbers ranging from 0 to 25 sperated by spaces for eg. 0 5 25 is a valid initial state while -1 5 26 is not. depending on the initial state, the output may change so to correctly decrypt a message, inital state should be the same as when it was encrypted.
 
-2. Enter your text which you might want to encrypt or decrypt in the top text area. after clicking the button, encrypted text will appear in the bottom text area.
+2. Enter your text which you want to encrypt or decrypt in the top text area. after clicking the button, encrypted text will appear in the bottom text area.
 
 3. An example:
 
@@ -21,6 +21,6 @@
 
 ![E2](https://github.com/Divy1211/Enc/blob/master/images/s2.PNG)
 
-5. To decrypt enter the encrypted text and make sure that the initial state is right (or message will be different!)
+5. To decrypt, enter the encrypted text and make sure that the initial state is right (or message will be different!)
 
 ![Decryted](https://github.com/Divy1211/Enc/blob/master/images/s1d.PNG)
